@@ -62,9 +62,9 @@ Bakı Dövlət Universiteti tələbələri üçün akademik hesablayıcı Progre
 
 ## 🚀 URLs
 
-- **Local Development**: http://localhost:3000
-- **Production**: Cloudflare Pages-də deploy ediləcək
-- **GitHub**: Tezliklə əlavə ediləcək
+- **Demo (Test)**: https://3000-igf6fxo8a7dc7s08veyzz-c07dda5e.sandbox.novita.ai
+- **GitHub**: https://github.com/guyu6821-gif/xon
+- **Production**: Cloudflare Pages-ə deploy üçün API key lazımdır (Deploy tab-dan əldə edin)
 
 ## 🏗️ Texniki Yığın
 
