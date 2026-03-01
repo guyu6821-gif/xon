@@ -191,15 +191,25 @@ webapp/
 
 ## 📝 Deployment
 
-### Cloudflare Pages
+### Cloudflare Pages (MANUAL)
 
-```bash
-# Build
-npm run build
+1. **Build edin**:
+   ```bash
+   cd /home/user/webapp
+   npm run build
+   ```
 
-# Deploy
-npm run deploy:prod
-```
+2. **Cloudflare Dashboard-a daxil olun**: https://dash.cloudflare.com
+
+3. **Workers & Pages > Create application > Pages > Upload assets**
+
+4. **dist/ folder-i yükləyin** (və ya bdu-hesablayici-dist.zip)
+
+5. **Deploy site** düyməsinə basın
+
+6. **HAZIDIR!** URL alacaqsınız: https://bdu-hesablayici.pages.dev
+
+📋 Ətraflı təlimat: [MANUAL_DEPLOY.md](MANUAL_DEPLOY.md)
 
 ## 🌟 Xüsusiyyətlər
 
