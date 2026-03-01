@@ -215,6 +215,16 @@ npm run deploy:prod
 
 Bu layihə BDU tələbələri üçün pulsuz akademik vasitədir.
 
+## 📦 Yükləmələr
+
+- **Backup (Initial)**: https://www.genspark.ai/api/files/s/EOKvkJVk
+- **Backup (Complete)**: https://www.genspark.ai/api/files/s/6La8h9fQ
+
+## 📚 Sənədlər
+
+- **[USER_GUIDE.md](USER_GUIDE.md)**: İstifadəçi təlimatı (Azərbaycan dilində)
+- **[DEPLOYMENT.md](DEPLOYMENT.md)**: Cloudflare Pages deployment təlimatları
+
 ---
 
 **Sayt Sahibi**: [@desespere_etoile](https://www.instagram.com/desespere_etoile)  
